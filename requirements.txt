@@ -1,0 +1,8 @@
+PyAutoGUI==0.9.52
+pyttsx3==2.90
+requests==2.18.4
+SpeechRecognition==3.8.1
+gTTS==2.2.1
+pycryptodome==3.9.9
+pyTelegramBotAPI==3.7.4
+telegram==0.0.1
